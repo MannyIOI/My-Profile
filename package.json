@@ -2,7 +2,7 @@
   "name": "mannyioi",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  "homepage": "http://MannyIOI.github.io/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.12.0",
